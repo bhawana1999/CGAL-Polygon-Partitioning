@@ -1,0 +1,6 @@
+/home/bhawana/Downloads/CGAL-4.14/examples/Partition_2/CMakeFiles/edit_cache.dir
+/home/bhawana/Downloads/CGAL-4.14/examples/Partition_2/CMakeFiles/rebuild_cache.dir
+/home/bhawana/Downloads/CGAL-4.14/examples/Partition_2/CMakeFiles/approx_convex_partition_2.dir
+/home/bhawana/Downloads/CGAL-4.14/examples/Partition_2/CMakeFiles/optimal_convex_partition_2.dir
+/home/bhawana/Downloads/CGAL-4.14/examples/Partition_2/CMakeFiles/y_monotone_partition_2.dir
+/home/bhawana/Downloads/CGAL-4.14/examples/Partition_2/CMakeFiles/greene_approx_convex_partition_2.dir

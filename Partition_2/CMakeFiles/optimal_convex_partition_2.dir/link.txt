@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/optimal_convex_partition_2.dir/optimal_convex_partition_2.cpp.o  -o optimal_convex_partition_2 -rdynamic -lmpfr -lgmp 
