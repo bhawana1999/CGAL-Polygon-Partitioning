@@ -1,24 +1,24 @@
-<b>y_monotone_partition_2.cpp</b>
+y_monotone_partition_2.cpp
 ------------------------------------
 
 computes a y-monotone partition of a random polygon and checks that each 
 polygon produced is, in fact, y-monotone and that the polygons form a 
 partition of the original polygon.
 
-<b>approx_convex_partition_2.cpp</b>
+approx_convex_partition_2.cpp
 ---------------------------------------------
 
 computes an approximately optimal convex partition of a random polygon and 
 checks the validity of the partition afterwards.
 
-<b>greene_approx_convex_partition_2.cpp</b>
+greene_approx_convex_partition_2.cpp
 ----------------------------------------------------
 
 computes an approximately optimal convex partition of a random polygon using 
 Greene's approximation algorithm and checks the validity of the partition 
 afterwards.
 
-<b>optimal_convex_partition_2.cpp</b>
+optimal_convex_partition_2.cpp
 ----------------------------------------------
 
 Computes an optimal convex partition of a particular polygon and checks the 
